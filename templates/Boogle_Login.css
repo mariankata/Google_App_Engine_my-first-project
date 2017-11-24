@@ -1,0 +1,169 @@
+body{
+    margin: 0px;
+    font-family: Arial;
+    color: rgba(153, 157, 163,.90);
+}
+
+.box-before {
+    
+}
+.logo{
+    height: 50px;
+    width: 200px;
+    display: block;
+    margin: 20px auto 20px auto;
+    
+}
+.line-1{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.line-2{
+    font-size: 20;
+    text-align: center;
+    
+}
+
+
+
+.login-box{
+    border: 1px solid transparent;
+    border-radius: 2px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(227, 232, 239);
+    box-shadow: 0 3px rgba(0,0,0,.20);
+    display: block;
+    margin: auto;
+    
+}
+.photo{
+    width: 85px;
+    height: 85px;
+    display: block;
+    margin: 40px auto 30px;
+}
+.type-email{
+    background-color: #fcf7c4;
+    height: 30px;
+    width: 200px;
+    display: block;
+    margin: 0px auto 0px;
+}
+.button-next{
+    color: white;
+    background-color: rgb(63, 159, 244);
+    height: 30px;
+    width: 205px;
+    display: block;
+    margin: 5px auto 5px;
+    border: 1px solid #0980ea;
+    border-radius: 2px;
+    font-weight: bold;
+}
+a.need-help{
+    display: block;
+    margin-right: 24%;
+    text-align: right;
+    text-decoration: none;
+}
+
+
+
+.box-after{
+    
+    height: 120px;
+    width: 400px;
+    display: block;
+    margin: 20px auto;
+}
+div.box-after{
+    margin: 20px auto 15px;
+}
+a.create-account{
+    text-align: center;
+    margin: 35%;
+    text-decoration: none;
+}
+.one-boogle{
+    text-align: center;
+}
+.icons{
+    display: block;
+    margin-left: 25%;
+}
+.boogle{
+    height: 20px;
+    width: 20px;
+}
+.mail{
+    height: 20px;
+    width: 20px;
+}
+.maps{
+    height: 20px;
+    width: 20px;
+}
+.youtube{
+    height: 20px;
+    width: 20px;
+}
+.drive{
+    height: 20px;
+    width: 20px;
+}
+.photos{
+    height: 20px;
+    width: 20px;
+}
+.store{
+    height: 20px;
+    width: 20px;
+}
+.chrome{
+    height: 20px;
+    width: 20px;
+}
+
+
+
+.bottom-bar{
+    border: 1px solid transparent;
+    height: 40px;
+    position: absolute;
+    width: 100%;
+    padding: 1%;
+    box-sizing: border-box;
+}
+.text{
+    float: left;
+}
+.about-google{
+    padding-left: 40px;
+    text-decoration: none;
+}
+.privacy{
+    padding-left: 15px;
+    text-decoration: none;
+}
+.terms{
+    padding-left: 15px;
+    text-decoration: none;
+}
+.help{
+    padding-left: 15px;
+    text-decoration: none;
+}
+
+.language{
+    float: right;
+    
+}
+.language-icon{
+    width: 20px;
+    height: 20px;
+}
+.language-select{
+    
+}

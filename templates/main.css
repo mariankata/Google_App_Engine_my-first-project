@@ -1,0 +1,92 @@
+.logo {
+    margin-right: 1rem;
+}
+.services-text {
+    text-align: center;
+    margin: 2% auto;
+    padding: 2%;
+}
+.card-deck {
+    padding: 0px 10%;
+}
+img.card-img-top {
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    margin: 0px auto;
+}
+img.card-img-top-about {
+    width: 300px;
+    padding: 2%;
+    margin: 0px auto;
+}
+.appointment-text {
+    text-align: center;
+    margin: 2%;
+    padding-bottom: 2%;
+}
+.appointment-info {
+    float: left;
+    width: 50%;
+    padding: 0px 5% 0px 10%;
+}
+.form-group {
+    padding-bottom: 20px;
+}
+.form-check {
+    padding-bottom: 20px
+}
+button.btn.btn-primary {
+    margin: 0 0 0 25%;
+}
+.table-right {
+    float: right;
+    width: 50%;
+    padding: 0px 10% 0px 5%;
+    }
+th,td {
+    border: 1px black solid;
+}
+.no-work-holidays {
+   
+}
+.faq-text {
+    text-align: center;
+    margin: 2% auto;
+    padding: 2%;
+}
+.faq-collaps {
+    padding: 0px 10%
+}
+.card {
+    margin-bottom: 2%;
+}
+.card-deck-box {
+    padding: 0px 10%;
+}
+.card-body-left {
+    margin-top: 4%;
+    margin-left: 15px;
+    width: 250px;
+    height: 250px;
+}
+.card-deck-about {
+    margin: 4% auto 0;
+}
+.card-body-right {
+    margin-top: 4%;
+    margin-right: 15px;
+    width: 250px;
+    height: 250px;
+}
+
+#services {
+}
+#make-an-appointment {
+}
+#faq {
+    padding-bottom: 2%;
+}
+#about {
+    border-top: 2px solid black;
+}
